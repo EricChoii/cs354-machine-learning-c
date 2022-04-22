@@ -1,4 +1,4 @@
-# CS 354: Intro to Computer Systems at UW-Madison
+# CS 354: Machine Organization and Programming at UW-Madison
 
 ## Notes
 
